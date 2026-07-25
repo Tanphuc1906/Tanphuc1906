@@ -34,10 +34,6 @@ Mục tiêu của tôi là xây dựng nền tảng vững chắc trong lĩnh v�
   - Ngoại ngữ:  "Tiếng Việt (Bản ngữ), Tiếng Anh (Đọc hiểu tài liệu kỹ thuật tốt)"
   - Portfolio:  "tanphuc1906.github.io"
 ```
-## 🏢 「 3D CYBER CITY SKYLINE 」 (Thành Phố Code 3D)
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Tanphuc1906/Tanphuc1906/main/github-metrics.svg" alt="3D City Skyline" />
-</div>
 
 ---
 
@@ -90,6 +86,11 @@ Dưới đây là các dự án cá nhân nổi bật thể hiện năng lực l
   * Xây dựng bằng **Python**, sử dụng thư viện **CustomTkinter** và **Win32 API** để tạo hiệu ứng đồ họa Neon, hỗ trợ chạy ngầm và tối ưu hóa hiệu năng khởi động tức thì.
   * Hỗ trợ đọc/lưu dữ liệu nhị phân tương thích với **TinyTask (.rec)** và tự định nghĩa cấu trúc kịch bản `.json`.
 
+---
+## 🏢 「 3D CYBER CITY SKYLINE 」 (Thành Phố Code 3D)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Tanphuc1906/Tanphuc1906/main/github-metrics.svg" alt="3D City Skyline" />
+</div>
 ---
 
 ## 📊 「 GITHUB ANALYTICS 」 (Thống Kê Hoạt Động)
