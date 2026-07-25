@@ -41,7 +41,7 @@ Mục tiêu của tôi là xây dựng nền tảng vững chắc trong lĩnh v�
 
 <div align="center">
   <p><i>Các ngôn ngữ lập trình, framework và công cụ tôi sử dụng trong các dự án thực tế:</i></p>
-  <img src="https://skillicons.dev/icons?i=js,python,html,css,nodejs,express,react,fastapi,mysql,mongodb,git,github,docker,vscode&theme=dark&perline=7" />
+  <img src="https://skillicons.dev/icons?i=js,python,html,css,react,nodejs,express,fastapi,mysql,mongodb,git,github,docker&theme=dark&perline=7" />
 </div>
 
 <br>
@@ -87,10 +87,13 @@ Dưới đây là các dự án cá nhân nổi bật thể hiện năng lực l
   * Hỗ trợ đọc/lưu dữ liệu nhị phân tương thích với **TinyTask (.rec)** và tự định nghĩa cấu trúc kịch bản `.json`.
 
 ---
+
 ## 🏢 「 3D CYBER CITY SKYLINE 」 (Thành Phố Code 3D)
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/Tanphuc1906/Tanphuc1906/main/github-metrics.svg" alt="3D City Skyline" />
 </div>
+
 ---
 
 ## 📊 「 GITHUB ANALYTICS 」 (Thống Kê Hoạt Động)
