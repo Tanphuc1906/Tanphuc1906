@@ -7,6 +7,8 @@ on:
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: lowlighter/metrics@latest
         with:
@@ -16,3 +18,11 @@ jobs:
           base: ""
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
+          config_theme: dracula
+          extras_css: |
+            svg {
+              filter: drop-shadow(0 0 15px rgba(0, 255, 135, 0.5));
+            }
+            .isocalendar-day {
+              filter: drop-shadow(0 0 3px #00ff87);
+            }
