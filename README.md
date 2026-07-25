@@ -34,6 +34,10 @@ Mục tiêu của tôi là xây dựng nền tảng vững chắc trong lĩnh v�
   - Ngoại ngữ:  "Tiếng Việt (Bản ngữ), Tiếng Anh (Đọc hiểu tài liệu kỹ thuật tốt)"
   - Portfolio:  "tanphuc1906.github.io"
 ```
+## 🏢 「 3D CYBER CITY SKYLINE 」 (Thành Phố Code 3D)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Tanphuc1906/Tanphuc1906/main/github-metrics.svg" alt="3D City Skyline" />
+</div>
 
 ---
 
